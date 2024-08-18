@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on New Projects and Ideas
 - 📫 How to reach me (kumar.aryan.3572)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Part time gamer, learning UX/UI
 
 <!---
