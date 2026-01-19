@@ -3,7 +3,7 @@
 - Building real-world web apps, while learning and growing every day.
 - Turning ideas into code and preparing for a global tech career 🌍.
 
-- - ⚡ Fun fact: Part time gamer, learning AI/ML
+- ⚡ Fun fact: Part time gamer, learning AI/ML
 
 
 
